@@ -1,4 +1,4 @@
-# Clang-format samples for predefined styleso
+# Clang-format samples
 
 ## Description
 This project runs clang-format on sample files for all the pre-defined sytles. The files are checked into directories with the style name. The files to format are kept in the directory baseline.
